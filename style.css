@@ -71,6 +71,12 @@ section{
     border-radius: 5px;
 }
 
+.hire:hover{
+
+    background: teal;
+    color: white;
+}
+
 .bio-img{
 
     background-image: url("images/biography-bg.png");
